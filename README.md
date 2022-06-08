@@ -1,7 +1,7 @@
 Hi 👋 My name is Mohammad Bakhtiari
 ===================================
 
-Web Developer With Asp .Net
+Back-End Web Developer With ASP .NET Core / C#
 ---------------------------
 
 I've learning to code for 2 year's. Started with C# language and developed my skill's in asp.net (Core) and learned in many fields as a web developer , fields like HTML, CSS, JS, TS, Bootstrap and SQL Server.
