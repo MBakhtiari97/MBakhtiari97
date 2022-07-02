@@ -8,8 +8,8 @@ I've learning to code for 2 year's. Started with C# language and developed my sk
 
 * 🌍  I'm based in Tehran
 * ✉️  You can contact me at [mohammadbakhtiari97@yahoo.com](mailto:mohammadbakhtiari97@yahoo.com)
-* 🚀  I'm currently working on [A professional E-Commerce app named Dias Computer](http://github.com/MBakhtiari97/DiasComputer )
-* 🧠  I'm learning TypeScript , Angular
+* 🚀  I'm currently working on [An online pizza order web application](http://github.com/MBakhtiari97/HottaPiz )
+* 🧠  I'm learning TypeScript 
 
 ### Skills
 
