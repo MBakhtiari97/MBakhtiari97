@@ -39,14 +39,6 @@ I've learning to code for 2 year's. Started with C# language and developed my sk
 
 <a href="https://github.com/MBakhtiari97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBakhtiari97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-<b>Top Repositories</b>
-
-<div width="100%" align="center"><a href="https://github.com/MBakhtiari97/TechNews" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MBakhtiari97&repo=TechNews&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MBakhtiari97/DiasComputer.Ver1.0" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MBakhtiari97&repo=DiasComputer.Ver1.0&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
-<div width="100%" align="center"><a href="https://github.com/MBakhtiari97/VenusDigital" align="left"><img align="left" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MBakhtiari97&repo=VenusDigital&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a><a href="https://github.com/MBakhtiari97/HottaPiz" align="right"><img align="right" width="45%" src="https://github-readme-stats.vercel.app/api/pin/?username=MBakhtiari97&repo=HottaPiz&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en" /></a></div><br /><br /><br /><br /><br /><br /><br />
-
-
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/mbakhtiari97"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
