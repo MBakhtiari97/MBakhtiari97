@@ -3,13 +3,11 @@ Hi 👋 My name is Mohammad Bakhtiari
 
 Back-End Web Developer With ASP .NET Core / C#
 ---------------------------
+C# Developer With 3 Year's Of Exprience
 
-I've learning to code for 2 year's. Started with C# language and developed my skill's in asp.net (Core) and learned in many fields as a web developer , fields like HTML, CSS, JS, TS, Bootstrap and SQL Server.
-
-* 🌍  I'm based in Tehran
-* ✉️  You can contact me at [mohammadbakhtiari97@yahoo.com](mailto:mohammadbakhtiari97@yahoo.com)
-* 🚀  I'm currently working on [An online pizza order web application](http://github.com/MBakhtiari97/HottaPiz )
-* 🧠  I'm learning TypeScript 
+* 🌍  I'm Located In Tehran
+* ✉️  You can contact me at [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com)
+* 🧠  I'm learning JavaScript Frameworks 
 
 ### Skills
 
