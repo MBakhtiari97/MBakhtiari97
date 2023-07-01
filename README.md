@@ -7,7 +7,7 @@ C# Developer With 3 Year's Of Exprience
 
 * 🌍  I'm Located In Tehran
 * ✉️  You can contact me at [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com)
-* 🧠  I'm learning JavaScript Frameworks 
+* 🧠  Love to learn new technologies
 
 ### Skills
 
