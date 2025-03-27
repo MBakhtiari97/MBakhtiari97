@@ -1,12 +1,9 @@
 Hi 👋 My name is Mohammad Bakhtiari
 ===================================
-
-Back-End Web Developer With ASP .NET Core / C#
----------------------------
-C# Developer With Over 3 Year's Of Exprience
+.NET Developer With Over 4 Year's Of Exprience
 
 * 🌍  I'm Located In Tehran
-* ✉️  You can contact me at [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com)
+* ✉️  You can contact me at [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com) or in linkedin
 * 🧠  Love to learn new technologies
 
 ### Skills
@@ -26,7 +23,7 @@ C# Developer With Over 3 Year's Of Exprience
 
 ### Socials
 
-<p align="left"> <a href="https://www.facebook.com/profile.php?id=100081131992040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MBakhtiari97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammad_bakhtiari_97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16778005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a></p>
+<p align="left"> <a href="https://www.facebook.com/profile.php?id=100081131992040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MBakhtiari97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammad_bakhtiari_97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16778005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-bakhtiarii97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://mbakhtiaridev.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
 
 
 <b>My GitHub Stats</b>
