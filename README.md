@@ -1,10 +1,11 @@
-Hi 👋 My name is Mohammad Bakhtiari
+Hi 👋 I'm Mohammad
 ===================================
-.NET Developer With Over 4 Year's Of Exprience
+Experienced .NET Developer | Passionate About Innovation
 
-* 🌍  I'm Located In Tehran
-* ✉️  You can contact me at [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com) or in linkedin
-* 🧠  Love to learn new technologies
+- 🌍 Based in Tehran, Iran
+- 📧 Feel free to reach out via [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-bakhtiarii97)
+- 🧠 Always eager to learn and explore cutting-edge technologies
+- 🚀 Focused on building scalable and efficient solutions with .NET, C#, and modern frameworks
 
 ### Skills
 
@@ -24,8 +25,6 @@ Hi 👋 My name is Mohammad Bakhtiari
 ### Socials
 
 <p align="left"> <a href="https://www.facebook.com/profile.php?id=100081131992040" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/MBakhtiari97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="http://www.instagram.com/mohammad_bakhtiari_97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/instagram.svg" width="32" height="32" /></a> <a href="https://www.stackoverflow.com/users/16778005" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/stackoverflow.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/mohammad-bakhtiarii97" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://mbakhtiaridev.info/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a></p>
-
-
 <b>My GitHub Stats</b>
 
 <a href="https://github.com/MBakhtiari97" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MBakhtiari97&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
