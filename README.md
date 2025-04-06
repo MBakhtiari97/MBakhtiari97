@@ -3,7 +3,7 @@ Hi 👋 I'm Mohammad
 Experienced .NET Developer | Passionate About Innovation
 
 - 🌍 Based in Tehran, Iran
-- 📧 Feel free to reach out via [mohammadbakhtiarii75@gmail.com](mailto:mohammadbakhtiarii75@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-bakhtiarii97)
+- 📧 Feel free to reach out via [mbakhtiaridevv@gmail.com](mailto:mbakhtiaridevv@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-bakhtiarii97)
 - 🧠 Always eager to learn and explore cutting-edge technologies
 - 🚀 Focused on building scalable and efficient solutions with .NET, C#, and modern frameworks
 
