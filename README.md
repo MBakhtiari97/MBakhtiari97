@@ -6,6 +6,11 @@ Experienced .NET Developer | Passionate About Innovation
 - 📧 Feel free to reach out via [mbakhtiaridevv@gmail.com](mailto:mbakhtiaridevv@gmail.com) or connect with me on [LinkedIn](https://www.linkedin.com/in/mohammad-bakhtiarii97)
 - 🧠 Always eager to learn and explore cutting-edge technologies
 - 🚀 Focused on building scalable and efficient solutions with .NET, C#, and modern frameworks
+- 💻 Skilled in .NET, C#, EF Core, SQL Server
+- 🛠️ Passionate about automating processes, ensuring error handling, and improving efficiency  
+- ✨ Interests include modern, scalable solutions, real-time technologies, and creating user-friendly applications
+- 🌟 Inspired by success stories and the power of collaboration to build impactful software
+-  When I'm not coding, you'll find me playing video games, watching movies, reading books or doing hard workout challenges to boosting my creativity
 
 ### Skills
 
