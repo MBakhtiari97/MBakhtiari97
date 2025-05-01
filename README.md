@@ -13,8 +13,20 @@ Experienced .NET Developer | Passionate About Innovation
 -  When I'm not coding, you'll find me playing video games, watching movies, reading books or doing hard workout challenges to boosting my creativity
 
 ### Skills
+<p align="center">
+    <img src="https://user-images.githubusercontent.com/74038190/212750672-2f3f2b50-c84f-4ed8-a60a-849ae69ff9df.gif" width="600" height="400">
+</p>
+
+<hr/>
+
+<p align="center">
+    <img src="https://techstack-generator.vercel.app/docker-icon.svg" alt="Docker" width="100" height="100"/>
+    <img src="https://techstack-generator.vercel.app/csharp-icon.svg" alt="C#" width="100" height="100"/>
+    <img src="https://techstack-generator.vercel.app/restapi-icon.svg" alt="Rest" width="100" height="100"/>
+</p>
 
 <p align="left">
+
 <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 <img src="https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white" alt="C#" />
 <img src="https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white" alt="SQL Server" />
