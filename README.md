@@ -1,26 +1,26 @@
-<p align="center"><b>Hi, I'm Mohammad 👋</b></p>
+<p align="center" text-size="20px"><b>𝘏𝘪, 𝘐'𝘮 𝘔𝘰𝘩𝘢𝘮𝘮𝘢𝘥 </b></p>
 
 <p align="center">===================================</p>
 
-<p align="center">✨ Experienced .NET Developer | Passionate About Innovation ✨ </p>
+<p align="center"> ​🇪​​🇽​​🇵​​🇪​​🇷​​🇮​​🇪​​🇳​​🇨​​🇪​​🇩​ .​🇳​​🇪​​🇹​ ​🇩​​🇪​​🇻​​🇪​​🇱​​🇴​​🇵​​🇪​​🇷​ | ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇮​​🇳​​🇳​​🇴​​🇻​​🇦​​🇹​​🇮​​🇴​​🇳​  </p>
 
-<p align="center">✨ Based in Tehran, Iran ✨ </p>
+<p align="center"> ​🇧​​🇦​​🇸​​🇪​​🇩​ ​🇮​​🇳​ ​🇹​​🇪​​🇭​​🇷​​🇦​​🇳​, ​🇮​​🇷​​🇦​​🇳​  </p>
 
-<p align="center">✨ Feel free to reach out via or connect with me on <a href="https://www.linkedin.com/in/">LinkedIn</a> ✨ </p>
+<p align="center"> ​🇫​​🇪​​🇪​​🇱​ ​🇫​​🇷​​🇪​​🇪​ ​🇹​​🇴​ ​🇷​​🇪​​🇦​​🇨​​🇭​ ​🇴​​🇺​​🇹​ ​🇻​​🇮​​🇦​ ​🇴​​🇷​ ​🇨​​🇴​​🇳​​🇳​​🇪​​🇨​​🇹​ ​🇼​​🇮​​🇹​​🇭​ ​🇲​​🇪​ ​🇴​​🇳​ ​🇱​​🇮​​🇳​​🇰​​🇪​​🇩​​🇮​​🇳​  </p>
 
-<p align="center">✨ Always eager to learn and explore cutting-edge technologies ✨ </p>
+<p align="center"> ​🇦​​🇱​​🇼​​🇦​​🇾​​🇸​ ​🇪​​🇦​​🇬​​🇪​​🇷​ ​🇹​​🇴​ ​🇱​​🇪​​🇦​​🇷​​🇳​ ​🇦​​🇳​​🇩​ ​🇪​​🇽​​🇵​​🇱​​🇴​​🇷​​🇪​ ​🇨​​🇺​​🇹​​🇹​​🇮​​🇳​​🇬​-​🇪​​🇩​​🇬​​🇪​ ​🇹​​🇪​​🇨​​🇭​​🇳​​🇴​​🇱​​🇴​​🇬​​🇮​​🇪​​🇸​  </p>
 
-<p align="center">✨ Focused on building scalable and efficient solutions with .NET, C#, and modern frameworks ✨ </p>
+<p align="center"> ​🇫​​🇴​​🇨​​🇺​​🇸​​🇪​​🇩​ ​🇴​​🇳​ ​🇧​​🇺​​🇮​​🇱​​🇩​​🇮​​🇳​​🇬​ ​🇸​​🇨​​🇦​​🇱​​🇦​​🇧​​🇱​​🇪​ ​🇦​​🇳​​🇩​ ​🇪​​🇫​​🇫​​🇮​​🇨​​🇮​​🇪​​🇳​​🇹​ ​🇸​​🇴​​🇱​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​ ​🇼​​🇮​​🇹​​🇭​ .​🇳​​🇪​​🇹​, ​🇨​#, ​🇦​​🇳​​🇩​ ​🇲​​🇴​​🇩​​🇪​​🇷​​🇳​ ​🇫​​🇷​​🇦​​🇲​​🇪​​🇼​​🇴​​🇷​​🇰​​🇸​  </p>
 
-<p align="center">✨ Skilled in .NET, C#, EF Core, SQL Server ✨ </p>
+<p align="center"> ​🇸​​🇰​​🇮​​🇱​​🇱​​🇪​​🇩​ ​🇮​​🇳​ .​🇳​​🇪​​🇹​, ​🇨​#, ​🇪​​🇫​ ​🇨​​🇴​​🇷​​🇪​, ​🇸​​🇶​​🇱​ ​🇸​​🇪​​🇷​​🇻​​🇪​​🇷​  </p>
 
-<p align="center">✨ Passionate about automating processes, ensuring error handling, and improving efficiency ✨ </p>
+<p align="center"> ​🇵​​🇦​​🇸​​🇸​​🇮​​🇴​​🇳​​🇦​​🇹​​🇪​ ​🇦​​🇧​​🇴​​🇺​​🇹​ ​🇦​​🇺​​🇹​​🇴​​🇲​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇵​​🇷​​🇴​​🇨​​🇪​​🇸​​🇸​​🇪​​🇸​, ​🇪​​🇳​​🇸​​🇺​​🇷​​🇮​​🇳​​🇬​ ​🇪​​🇷​​🇷​​🇴​​🇷​ ​🇭​​🇦​​🇳​​🇩​​🇱​​🇮​​🇳​​🇬​, ​🇦​​🇳​​🇩​ ​🇮​​🇲​​🇵​​🇷​​🇴​​🇻​​🇮​​🇳​​🇬​ ​🇪​​🇫​​🇫​​🇮​​🇨​​🇮​​🇪​​🇳​​🇨​​🇾​  </p>
 
-<p align="center">✨ Interests include modern, scalable solutions, real-time technologies, and creating user-friendly applications ✨ </p>
+<p align="center"> ​🇮​​🇳​​🇹​​🇪​​🇷​​🇪​​🇸​​🇹​​🇸​ ​🇮​​🇳​​🇨​​🇱​​🇺​​🇩​​🇪​ ​🇲​​🇴​​🇩​​🇪​​🇷​​🇳​, ​🇸​​🇨​​🇦​​🇱​​🇦​​🇧​​🇱​​🇪​ ​🇸​​🇴​​🇱​​🇺​​🇹​​🇮​​🇴​​🇳​​🇸​, ​🇷​​🇪​​🇦​​🇱​-​🇹​​🇮​​🇲​​🇪​ ​🇹​​🇪​​🇨​​🇭​​🇳​​🇴​​🇱​​🇴​​🇬​​🇮​​🇪​​🇸​, ​🇦​​🇳​​🇩​ ​🇨​​🇷​​🇪​​🇦​​🇹​​🇮​​🇳​​🇬​ ​🇺​​🇸​​🇪​​🇷​-​🇫​​🇷​​🇮​​🇪​​🇳​​🇩​​🇱​​🇾​ ​🇦​​🇵​​🇵​​🇱​​🇮​​🇨​​🇦​​🇹​​🇮​​🇴​​🇳​​🇸​  </p>
 
-<p align="center">✨ Inspired by success stories and the power of collaboration to build impactful software ✨ </p>
+<p align="center"> ​🇮​​🇳​​🇸​​🇵​​🇮​​🇷​​🇪​​🇩​ ​🇧​​🇾​ ​🇸​​🇺​​🇨​​🇨​​🇪​​🇸​​🇸​ ​🇸​​🇹​​🇴​​🇷​​🇮​​🇪​​🇸​ ​🇦​​🇳​​🇩​ ​🇹​​🇭​​🇪​ ​🇵​​🇴​​🇼​​🇪​​🇷​ ​🇴​​🇫​ ​🇨​​🇴​​🇱​​🇱​​🇦​​🇧​​🇴​​🇷​​🇦​​🇹​​🇮​​🇴​​🇳​ ​🇹​​🇴​ ​🇧​​🇺​​🇮​​🇱​​🇩​ ​🇮​​🇲​​🇵​​🇦​​🇨​​🇹​​🇫​​🇺​​🇱​ ​🇸​​🇴​​🇫​​🇹​​🇼​​🇦​​🇷​​🇪​  </p>
 
-<p align="center"> When I'm not coding, you'll find me playing video games, watching movies, reading books or doing workout challenges to boost my creativity </p>
+<p align="center"> 𝙒𝙝𝙚𝙣 𝙄'𝙢 𝙣𝙤𝙩 𝙘𝙤𝙙𝙞𝙣𝙜, 𝙮𝙤𝙪'𝙡𝙡 𝙛𝙞𝙣𝙙 𝙢𝙚 𝙥𝙡𝙖𝙮𝙞𝙣𝙜 𝙫𝙞𝙙𝙚𝙤 𝙜𝙖𝙢𝙚𝙨, 𝙬𝙖𝙩𝙘𝙝𝙞𝙣𝙜 𝙢𝙤𝙫𝙞𝙚𝙨, 𝙧𝙚𝙖𝙙𝙞𝙣𝙜 𝙗𝙤𝙤𝙠𝙨 𝙤𝙧 𝙙𝙤𝙞𝙣𝙜 𝙬𝙤𝙧𝙠𝙤𝙪𝙩 𝙘𝙝𝙖𝙡𝙡𝙚𝙣𝙜𝙚𝙨 𝙩𝙤 𝙗𝙤𝙤𝙨𝙩 𝙢𝙮 𝙘𝙧𝙚𝙖𝙩𝙞𝙫𝙞𝙩𝙮 </p>
 
 
 <p align="center">
